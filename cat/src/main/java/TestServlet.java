@@ -12,7 +12,7 @@ public class TestServlet extends HttpServlet {
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        System.out.println("TestServlet OK");
+        System.out.println("TestServlet OK!");
         response.getWriter().println("doGet");
     }
 }
