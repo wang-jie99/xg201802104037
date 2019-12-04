@@ -2,217 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37fb8607-899e-4596-96a2-3635b847a040" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/war/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/.gradle/4.10.3/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/.gradle/4.10.3/fileContent/fileContent.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/.gradle/4.10.3/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/Filter/Filter10_Encoding.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/Filter/Filter20.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/TestServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/controller/DegreeController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/controller/DepartmentController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/controller/ProfTitleController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/controller/SchoolController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/controller/TeacherController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/dao/DegreeDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/dao/DepartmentDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/dao/GraduateProjectCategoryDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/dao/GraduateProjectDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/dao/GraduateProjectStatusDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/dao/GraduateProjectTypeDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/dao/MajorDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/dao/ProfTitleDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/dao/SchoolDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/dao/TeacherDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/dao/UserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/domain/Degree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/domain/Department.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/domain/GraduateProject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/domain/GraduateProjectCategory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/domain/GraduateProjectStatus.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/domain/GraduateProjectType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/domain/Major.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/domain/ProfTitle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/domain/School.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/domain/Teacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/domain/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/domain/authority/Actor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/domain/authority/ActorAssRole.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/domain/authority/Resource.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/domain/authority/Role.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/domain/authority/RoleAssResource.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/service/DegreeService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/service/DepartmentService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/service/GraduateProjectCategoryService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/service/GraduateProjectService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/service/GraduateProjectStatusService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/service/GraduateProjectTypeService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/service/ProfTitleService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/service/SchoolService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/service/TeacherService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/bysj/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/util/Helper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/util/IdService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/util/InitServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/util/JSONUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/util/JdbcHelper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/util/WebHelper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/classes/java/main/util/WebUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/cat-1.0-SNAPSHOT.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/Filter/Filter10_Encoding.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/Filter/Filter20.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/TestServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/controller/DegreeController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/controller/DepartmentController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/controller/ProfTitleController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/controller/SchoolController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/controller/TeacherController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/dao/DegreeDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/dao/DepartmentDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/dao/GraduateProjectCategoryDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/dao/GraduateProjectDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/dao/GraduateProjectStatusDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/dao/GraduateProjectTypeDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/dao/MajorDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/dao/ProfTitleDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/dao/SchoolDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/dao/TeacherDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/dao/UserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/domain/Degree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/domain/Department.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/domain/GraduateProject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/domain/GraduateProjectCategory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/domain/GraduateProjectStatus.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/domain/GraduateProjectType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/domain/Major.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/domain/ProfTitle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/domain/School.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/domain/Teacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/domain/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/domain/authority/Actor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/domain/authority/ActorAssRole.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/domain/authority/Resource.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/domain/authority/Role.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/domain/authority/RoleAssResource.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/service/DegreeService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/service/DepartmentService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/service/GraduateProjectCategoryService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/service/GraduateProjectService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/service/GraduateProjectStatusService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/service/GraduateProjectTypeService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/service/ProfTitleService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/service/SchoolService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/service/TeacherService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/bysj/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/util/Helper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/util/IdService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/util/InitServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/util/JSONUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/util/JdbcHelper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/util/WebHelper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/classes/util/WebUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/lib/fastjson-1.2.62.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/lib/mysql-connector-java-8.0.18.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/lib/protobuf-java-3.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/libs/exploded/cat-1.0-SNAPSHOT.war/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/build/tmp/war/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/Filter/Filter10_Encoding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/Filter/Filter20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/TestServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/controller/DegreeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/controller/DepartmentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/controller/ProfTitleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/controller/SchoolController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/controller/TeacherController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/dao/DegreeDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/dao/DepartmentDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/dao/GraduateProjectCategoryDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/dao/GraduateProjectDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/dao/GraduateProjectStatusDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/dao/GraduateProjectTypeDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/dao/MajorDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/dao/ProfTitleDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/dao/SchoolDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/dao/TeacherDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/domain/Degree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/domain/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/domain/GraduateProject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/domain/GraduateProjectCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/domain/GraduateProjectStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/domain/GraduateProjectType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/domain/Major.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/domain/ProfTitle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/domain/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/domain/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/domain/authority/Actor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/domain/authority/ActorAssRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/domain/authority/Resource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/domain/authority/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/domain/authority/RoleAssResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/service/DegreeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/service/DepartmentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/service/GraduateProjectCategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/service/GraduateProjectService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/service/GraduateProjectStatusService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/service/GraduateProjectTypeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/service/ProfTitleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/service/SchoolService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/service/TeacherService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/bysj/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/util/Helper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/util/IdService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/util/InitServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/util/JSONUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/util/JdbcHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/util/WebHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/java/util/WebUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -308,6 +98,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -388,7 +179,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -510,18 +300,25 @@
       <workItem from="1575388993799" duration="182000" />
       <workItem from="1575389723127" duration="1126000" />
       <workItem from="1575417467245" duration="2670000" />
-      <workItem from="1575420217755" duration="231000" />
+      <workItem from="1575420217755" duration="632000" />
     </task>
+    <task id="LOCAL-00001" summary="JW_201802104037_31次作业">
+      <created>1575420544852</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575420544852</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3978000" />
+    <option name="totallyTimeSpent" value="4610000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.72456574" visible="true" weight="0.2600536" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.72456574" visible="true" weight="0.2600536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -531,7 +328,7 @@
       <window_info id="Web" order="7" sideWeight="0.27543426" side_tool="true" visible="true" weight="0.2600536" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.42917848" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42917848" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -559,6 +356,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="JW_201802104037_31次作业" />
+    <option name="LAST_COMMIT_MESSAGE" value="JW_201802104037_31次作业" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/cat/build.gradle">
@@ -612,20 +413,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/cat/src/main/java/TestServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="77" lean-forward="true" selection-start-line="9" selection-start-column="77" selection-end-line="9" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/cat/src/main/java/bysj/controller/DegreeController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cat/src/main/java/TestServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
