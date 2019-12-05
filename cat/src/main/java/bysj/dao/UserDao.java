@@ -140,7 +140,7 @@ public final class UserDao {
 		ResultSet resultSet = preparedStatement.executeQuery();
 		if (resultSet.next()){
 			user = new User(resultSet.getInt("id"),resultSet.getString("username"),
-					resultSet.getString("password"),resultSet.getDate("loginTime"),
+					resultSet.getString("password"),
 					TeacherService.getInstance().find(resultSet.getInt("teacher_id")));
 		}
 		//关闭资源
@@ -152,11 +152,11 @@ public final class UserDao {
 //		return users.remove(user);
 //	}
 
-	public static void main(String[] args)throws SQLException{
-		User dao = new User(3,"dye","dye",new Date(), TeacherDao.getInstance().find(3));
-		System.out.println(dao);
-		//UserDao.getInstance().add(dao);
-	}
+//	public static void main(String[] args)throws SQLException{
+//		User dao = new User(3,"dye","dye",new Date(), TeacherDao.getInstance().find(3));
+//		System.out.println(dao);
+//		//UserDao.getInstance().add(dao);
+//	}
 
 //	private static void display(Collection<User> users) {
 //		for (User user : users) {

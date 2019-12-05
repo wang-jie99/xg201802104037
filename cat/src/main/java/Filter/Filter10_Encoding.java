@@ -11,7 +11,6 @@ public class Filter10_Encoding implements Filter {
     @Override
     public void doFilter(ServletRequest servletRequest, ServletResponse servletResponse,
                          FilterChain filterChain) throws IOException, ServletException {
-     //   System.out.println("Filter 10 - encoding begins");
         //强制类型转换为HTTPServlet
         HttpServletRequest request = (HttpServletRequest)servletRequest;
         HttpServletResponse response = (HttpServletResponse)servletResponse;
@@ -22,7 +21,6 @@ public class Filter10_Encoding implements Filter {
         if (!path.contains("/login")) {
             //设置响应字符编码为UTF-8
             response.setContentType("text/html;charset=UTF-8");
-         //   System.out.println("set response");
             //获得请求方法
             String method = request.getMethod();
             //如果方法时PUT或者POST
@@ -33,7 +31,6 @@ public class Filter10_Encoding implements Filter {
         }
         //执行其他过滤器，如过滤器执行完毕，则执行原请求
         filterChain.doFilter(servletRequest,servletResponse);
-     //   System.out.println("Filter 0 - encoding ends");
     }
 
     @Override
